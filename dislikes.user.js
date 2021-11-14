@@ -7,7 +7,7 @@
 
 // @match        *://*.youtube.com/*
 // @match        *://*.googleapis.com/youtube/v3/videos?part=*
-// @icon         https://github.com/TheBoredProputer/Restore-Dislikes-on-Youtube/tree/main/icons
+// @icon         https://raw.githubusercontent.com/TheBoredProputer/Restore-Dislikes-On-Youtube/main/icons/dislike-48.png
 // ==/UserScript==
 
 const youtubeKey = "AIzaSyC9bCs8vDYpfwImAU31WxLJwWFP3iHJCvE";
