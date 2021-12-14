@@ -10,7 +10,7 @@
 // @icon         https://raw.githubusercontent.com/TheBoredProputer/Restore-Dislikes-On-Youtube/main/icons/dislike-48.png
 // ==/UserScript==
 
-const youtubeKey = "AIzaSyC9bCs8vDYpfwImAU31WxLJwWFP3iHJCvE";
+const youtubeKey = "YOUR_API_KEY_HERE";
 var youtubeWeb;
 var youtubeParameters;
 var videoID;
